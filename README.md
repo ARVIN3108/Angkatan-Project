@@ -5,3 +5,7 @@ Student Force 39
 
 ### Atharva Adhibrata
 Pemurah hati, serta unggul dalam bertingkah laku
+
+## Nama Angkatan (Fix)
+### AsmaraDuga
+Angkatan Spema Glora Dua Tiga
